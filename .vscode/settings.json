@@ -1,0 +1,4 @@
+{
+  "ballerina.scope": "integration-as-api",
+  "ballerina.isBI": true
+}
